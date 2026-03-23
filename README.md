@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋 I'm Balu
 
-<!--
-**Baluvalle143/Baluvalle143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSD Student (2028)  
+📊 Aspiring Data Scientist  
+💻 250+ LeetCode Problems  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python, C++
+- Pandas, NumPy
+- Machine Learning
+- SQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- Sales Dashboard Analysis  
+- Facebook Ads Analysis  
+- ML Prediction Models  
+
+## 📫 Connect with me
+LinkedIn: https://www.linkedin.com/in/balu-valle-2536b2322
